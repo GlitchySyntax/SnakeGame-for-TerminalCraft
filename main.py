@@ -1,6 +1,6 @@
 import curses
 
-# cool new stuff more cool git stuff
+# Experimenting IGNORE THIS FILE
 
 
 def main(stdscr):

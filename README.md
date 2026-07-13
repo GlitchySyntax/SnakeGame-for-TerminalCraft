@@ -4,4 +4,6 @@ A basic python script that runs the snake game in the terminal
 
 Its a snek game, its fun :)
 
+To Run the game, simply run the `snake.py` file and enjoy!
+
 made with arch btw (i have to mention this its the law)

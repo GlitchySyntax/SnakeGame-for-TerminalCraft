@@ -50,7 +50,6 @@ def run_game(win, sh, sw):
         [sh // 2, sw // 4 - 1],
         [sh // 2, sw // 4 - 2],
         [sh // 2, sw // 4 - 3],
-        [sh // 2, sw // 4 - 4],
     ]
     direction = curses.KEY_RIGHT
 

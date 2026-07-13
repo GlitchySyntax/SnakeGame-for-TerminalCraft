@@ -1,5 +1,7 @@
 import curses
 
+# cool new stuff
+
 
 def main(stdscr):
     curses.curs_set(0)

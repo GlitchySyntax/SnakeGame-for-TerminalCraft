@@ -38,7 +38,7 @@ def main(stdscr):
 
     curses.curs_set(
         1
-    )  # restore cursor on the way out otherwise a vim moment will happen
+    )  # restore cursor on the way out otherwise a VIM moment will happen
 
 
 def run_game(win, sh, sw):
